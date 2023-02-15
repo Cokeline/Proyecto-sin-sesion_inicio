@@ -1,0 +1,131 @@
+
+#floral{
+    background: url(../imagenes/background1.jpeg);
+background-size: cover;
+}
+
+#clasico{
+    background: url(../imagenes/background2.jpeg);
+    background-size: cover;
+}
+
+header{
+    border: 3px solid #0ffff8;
+    margin-bottom: 1%;
+    background-color: #d30277;
+    width: 90%;
+    margin-left: 5%;
+}
+
+header img{
+    margin-left: 20%;
+}
+article{
+    border: 3px solid #1e1908;
+    width: 90%;
+    margin-left: 5%;
+}
+img{
+    width: 900px;
+    height: 200px;
+   margin-left: 30%;
+
+}
+form label{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+form{
+    margin-left: 2%;
+}
+button{
+    margin-bottom: 2%;
+    margin-top: 2%;
+    background-color: #ac497c;
+    height: 40px;
+    border-radius: 8px;
+}
+footer{
+    margin-top: 1%;
+    text-align: center;
+    border: 3px solid black;
+    background-color: #9f15c2;
+    width: 90%;
+    margin-left: 5%;
+}
+.error{
+    color: red;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 1.6em;
+    text-align: center;
+    border: 3px solid black;
+    margin-bottom: 1%;
+    background-color: #f36b6b;
+    width: 90%;
+    margin-left: 5%;
+
+}
+.contenedor{
+    text-align: center;
+    border: 3px solid black;
+    margin-bottom: 1%;
+    background-color: #b3ecff;
+    width: 90%;
+  margin-left: 5%;
+    font-size: 1.6em;
+
+}
+.contenedor img{
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    padding: 1%;
+}
+.enlaces{
+   color: black;
+    margin-left: 43%;
+    text-decoration: none;
+    background-color:  #D0D3D4;
+    border-radius: 10px;
+    font-size: 2em;
+
+}
+#enlaceSesion{
+    margin-left: 2%;
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+}
+#nombreUsuario a{
+    text-decoration: none;
+    color: #e1e2ed;
+    font-size: 1.2em;
+    margin-left: 5%;
+}
+
+#nombreUsuario{
+    color: gray;
+    font-size: 1.6em;
+    margin-left: 40%;
+}
+.sesion{
+    border: 1px solid black;
+    background-color:  #9bd7eb;
+    width: 600px;
+
+}
+#valoracion{
+    text-align: center;
+    border: 3px solid black;
+    margin-bottom: 1%;
+    background-color: #addae9;
+    width: 90%;
+    margin-left: 5%;
+}
+#valoracion img{
+  margin-left: 5%;
+    height: 100px;
+    padding: 2%;
+}
